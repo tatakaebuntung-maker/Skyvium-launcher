@@ -1,4 +1,4 @@
-project(application)
+project(skyviumlauncher)
 
 ################################ FILES ################################
 
