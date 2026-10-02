@@ -1,4 +1,5 @@
-project(skyviumlauncher)
+project(skylith_mc LANGUAGES CXX C)
+
 
 ################################ FILES ################################
 
